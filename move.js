@@ -106,7 +106,7 @@ gsap.from(".btm6-parts2 h4", {
     scrollTrigger: {
         trigger: ".btm6-parts2>h4",
         scroller: "body",
-        markers:true,
+       
         start: "top 90%",
         end: "top 50%",
         scrub: true
@@ -119,7 +119,7 @@ gsap.from(".btm6-parts2 h4", {
         scrollTrigger: {
             trigger: ".btm6-parts2>h4",
             scroller: "body",
-            markers:true,
+          
             start: "top 90%",
             end: "top 50%",
             scrub: true

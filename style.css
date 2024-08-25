@@ -498,10 +498,10 @@ padding: 1vw ;
 }
 .landing6-below{
     display:flex;
-
+   
     justify-content: space-between;
     width:85%;
-    margin-left: 16vh;
+    margin-left: 9vw;
   margin-bottom: 15vh;
 
 }
