@@ -522,23 +522,23 @@ padding: 1vw ;
   
 }
 #btm6-part1{
-    width:25%;
+    width:20%;
     height: 100%;
     border-right:1px solid #dadada;
 }
 .btm6-parts2{
-    width:30%;
+    width:39%;
     height: 100%;
     border-right:1px solid #dadada;
 }
 .btm6-parts{
-    width:18%;
+    width:26%;
     height: 100%;
     border-right:1px solid #dadada;
     
 }
 .btm6-part{
-    width:9%;
+    width:15%;
     height: 100%;
 }
 .btm6-part>h2{
@@ -578,24 +578,24 @@ padding: 1vw ;
 
 .btm6-parts2 h4:nth-child(2),
 .btm6-parts h4:nth-child(2){
-    transform: translateX(.5vw) !important;
+    transform: translateX(.3vw) ;
 }
 .btm6-parts2 h4:nth-child(3),
 .btm6-parts h4:nth-child(3){
-    transform: translateX(1vw) !important;
+    transform: translateX(1vw) ;
 }
-.btm6-parts2 h4:nth-child(4)
+.btm6-parts2 h4:nth-child(4),.btm6-parts h4:nth-child(4)
 {
-    transform: translateX(1.5vw) !important;
+    transform: translateX(2vw) ;
 }
-.btm6-parts2 h4:nth-child(5),.btm6-parts h4:nth-child(4){
-    transform: translateX(2vw) !important;
+.btm6-parts2 h4:nth-child(5){
+    transform: translateX(3vw) ;
 }
 .btm6-parts2 h4:nth-child(6){
-    transform: translateX(2.5vw) !important;
+    transform: translateX(4vw) ;
 }
 .btm6-parts2 h4:nth-child(7){
-    transform: translateX(3vw) !important;
+    transform: translateX(5vw) ;
 }
 .btm6-parts>h2{
     padding:2vw 0.3vw;

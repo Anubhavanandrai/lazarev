@@ -100,14 +100,27 @@ to.forEach(element => {
 
 
 
-// gsap.to(".btm6-parts2 h4", {
-//     x:0,
-//     duration: 1,
-//     scrollTrigger: {
-//         trigger: ".btm6-parts2",
-//         scroller: "body",
-//         markers:true,
-//         start: "top 80%",
-//         end: "top 50%",
-//         scrub: true
-//     }})
+gsap.from(".btm6-parts2 h4", {
+    x:0,
+    duration: 2,
+    scrollTrigger: {
+        trigger: ".btm6-parts2>h4",
+        scroller: "body",
+        markers:true,
+        start: "top 90%",
+        end: "top 50%",
+        scrub: true
+    }})
+
+
+    gsap.from(".btm6-parts h4", {
+        x:0,
+        duration: 2,
+        scrollTrigger: {
+            trigger: ".btm6-parts2>h4",
+            scroller: "body",
+            markers:true,
+            start: "top 90%",
+            end: "top 50%",
+            scrub: true
+        }})
