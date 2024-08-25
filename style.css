@@ -40,12 +40,13 @@ scroll-behavior: smooth;
     line-height:24px ;
     font-weight: 500;
 }
-.landing h4{
+.be>h4{
     font-size: 1.2vw;
     display: inline-flex;
     align-items: center;
     border-radius: 1.8vw;
     padding:.5vw;
+    border:1px solid grey
 }
 .be{
     margin-top: 9px;
@@ -574,7 +575,7 @@ padding: 1vw ;
  margin-bottom: .9vw;
  font-size: .8vw;
     border:1px solid black;
-    width:40vh;
+    width:12vw;
     border-radius: 10vh;
    
 
@@ -582,24 +583,24 @@ padding: 1vw ;
 
 .btm6-parts2 h4:nth-child(2),
 .btm6-parts h4:nth-child(2){
-    transform: translateX(.3vw) ;
+    transform: translateX(.5vw) ;
 }
 .btm6-parts2 h4:nth-child(3),
 .btm6-parts h4:nth-child(3){
-    transform: translateX(1vw) ;
+    transform: translateX(1.5vw) ;
 }
 .btm6-parts2 h4:nth-child(4),.btm6-parts h4:nth-child(4)
 {
-    transform: translateX(2vw) ;
+    transform: translateX(2.5vw) ;
 }
 .btm6-parts2 h4:nth-child(5){
-    transform: translateX(3vw) ;
+    transform: translateX(3.5vw) ;
 }
 .btm6-parts2 h4:nth-child(6){
-    transform: translateX(4vw) ;
+    transform: translateX(4.5vw) ;
 }
 .btm6-parts2 h4:nth-child(7){
-    transform: translateX(5vw) ;
+    transform: translateX(5.5vw) ;
 }
 .btm6-parts>h2{
     padding:2vw 0.3vw;
@@ -612,7 +613,7 @@ padding: 1vw ;
     margin-bottom: .9vw;
     font-size: .8vw;
     border:1px solid black;
-    width: 22vh;
+    width: 9vw;
     border-radius: 8vh;
 }
 
