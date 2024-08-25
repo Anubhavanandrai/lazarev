@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LAZAREV. 🪀 — Digital Product Design Agency | Award Winning UX & UI Agency</title>
+    <link rel="shortcut icon" href="https://assets-global.website-files.com/64a2ab71942e1d57feb6fe39/6528221f95333ff155d01ad2_fav.gif" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.0/dist/locomotive-scroll.css" />
+
+</head>
+<body>
+    <div class="main"  data-scroll-container>
+        <div class="nav">
+            <h2>LAZAREV.</h2>
+            <div class="nav2">
+                <a href="#">Case Studies</a>
+                <a href="#">Area of expertise</a>
+                <a href="#">UI/UX Design</a>
+                <a href="#">Product Design</a>
+                <a href="#">Design Process</a>
+                <a href="#">About Agency</a>
+            </div>
+            <button>
+                Let's talk
+                <svg>
+                    <path d="M2.5 14.375V17.5h3.125l9.217-9.217-3.125-3.125L2.5 14.375Zm14.758-8.508a.83.83 0 0 0 0-1.175l-1.95-1.95a.83.83 0 0 0-1.175 0l-1.525 1.525 3.125 3.125 1.525-1.525Z"></path>
+                </svg>
+            </button>
+            <div class="nav-open">
+                <h5><span>Case Studies</span></h5>
+                <div class="nav-open-ele">
+                    <h5><span> AI & ML</span></h5>
+                    <h5><span>Fintech</span></h5>
+                    <h5><span>Real Estate</span></h5>
+                    <h5><span>E-commerce</span></h5>
+                    <h5><span>Web 3</span></h5>
+                </div>
+                <div class="nav-open-ele">
+                    <h5><span>Fintech</span></h5>
+                    <h5><span>Real Estate</span></h5>
+                    <h5><span>E-commerce</span></h5>
+                    <h5><span>Web 3</span></h5>
+                </div>
+                <div class="nav-open-ele">
+                    <h5><span>Fintech</span></h5>
+                    <h5><span>Real Estate</span></h5>
+                    <h5><span>E-commerce</span></h5>
+                    <h5><span>Web 3</span></h5>
+                </div>
+                <div class="nav-open-ele">
+                    <h5><span>E-commerce</span></h5>
+                    <h5><span>Web 3</span></h5>
+                </div>
+                <div class="nav-open-ele">
+                    <h5><span>Fintech</span></h5>
+                    <h5><span>Real Estate</span></h5>
+                    <h5><span>Web 3</span></h5>
+                </div>
+            </div>
+        </div>
+
+        <div class="landing">
+            <h2>
+                AI & ML PR<span>
+                    <svg class="sv">
+                        <path fill="#fff" d="M2.5 14.375V17.5h3.125l9.217-9.217-3.125-3.125L2.5 14.375Zm14.758-8.508a.83.83 0 0 0 0-1.175l-1.95-1.95a.83.83 0 0 0-1.175 0l-1.525 1.525 3.125 3.125 1.525-1.525Z"></path>
+                    </svg></span>
+            DUCT
+            </h2>
+            <h2 class="ag">DESIGN AGENCY</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus, ab.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <div class="be">
+                <h4>Brand design</h4>
+                <h4>User experience</h4>
+                and
+                <h4>digital product design</h4>
+            </div>
+
+            <div class="moving-div">
+                <div class="blurr"></div>
+                <div class="move">
+                    <img src="https://lazarev.kiev.ua/la24/forbes.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/adweek.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/pmi.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/wf.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/rd.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/webby.svg" alt="">
+                </div>
+                <div class="move">
+                    <img src="https://lazarev.kiev.ua/la24/forbes.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/adweek.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/pmi.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/wf.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/rd.svg" alt="">
+                    <img src="https://lazarev.kiev.ua/la24/webby.svg" alt="">
+                </div>
+                <div class="blur-r"></div>
+            </div>
+        </div>  
+        <!-- landing end -->
+
+        <div class="landing2">    
+            <div class="landing2-left">
+                <p>Exclusive insights into <br>UI/UX and product design</p>
+                <h5>Being a design studio at the<br> forefront of digital transformation <br>and product design, we take it upon
+                    <br>ourselves to drop some knowledge, share <br>insights, let out insider tips, and put our <br>work on full
+                    display</h5>
+            </div>
+            <div class="landing2-right">
+                <div class="landing2-right-ele">
+                    <h2>How to Design An AI Interface Users will <br>Trust in 2024?</h2>
+                </div>
+                <div class="landing2-right-ele">
+                    <h2>How AI Influences Design And The <br>Reciprocal Impact Of UX On AI-Driven <br>Products</h2>
+                </div>
+                <div class="landing2-right-ele">
+                    <h2>Lazarev becomes A Professional Webflow <br>Partner</h2>
+                </div>
+                <div class="landing2-right-ele">
+                    <h2>AI-Based Industrial Software Canvass AI <br>Secures $7.5M In Funding</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="landing3">
+            <div class="icon">
+                <i class="ri-play-circle-fill"></i>
+                <h5>Watch Showreel</h5>
+            </div>
+            <video class="landing3-video" src="https://lazarev.kiev.ua/la24/la-reel--min.mp4"></video>
+        </div>
+
+        <div class="landing4">
+            <div class="landing4-sections">
+                <div class="landing4-section-left">
+                    <h3 class="landing-left-name">Accern. Rhea</h3>
+                    <h5 class="landing-left-name-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum alias suscipit sapiente voluptate ipsum. Vel.</h5>
+                </div>
+                <div class="landing4-section-right">
+                    <img src="https://assets-global.website-files.com/64a5e6675a4159253d0ee3e0/65a93ac90b586168e5917ac8_Rhea%20-%20cover_horizontal_low.webp" alt="">
+                    <video class="landing4-video" src="./vii.mp4"></video>
+                </div>
+            </div>
+        </div>
+
+        <div class="landing5">
+            <div class="btn-w">
+                <button class="bt">Become a client</button>
+            </div>
+            
+            <div class="landing5-right">
+                <p class="landing5-p">
+                    <span></span>We lead your startup at every step of its <span></span>growth, providing unparalleled personal service at every interaction. Whether it's launching an MVP, revamping an existing product, securing funding with UI prototypes, increasing customer engagement, or boosting conversions, we develop a suite of custom-tailored design services to fulfill your expectations.
+                </p>
+
+                                <!-- First landing5_bottom div -->
+                                <div class="landing5_bottom">
+                                  <div class="landing5-content">
+                                      <h1>UI/UX Design</h1>
+                                      <div class="gridd">
+                                          <h5 class="gridd-h5">UI DESIGN</h5>
+                                          <h5 class="gridd-h5">UX AUDIT</h5>
+                                          <h5 class="gridd-h5">UX DESIGN</h5>
+                                          <h5 class="gridd-h5">UX RESEARCH</h5>
+                                      </div>
+                                      <hr>
+                                  </div>
+                                  <div class="toclose">
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Research</h3>
+                                          <p id="hj">Before making any design solutions, our team conducts UX research, leaving no stone unturned. This entails market analysis, competitor assessment, crystallizing your product positioning, and defining comprehensive feature lists.</p>
+                                          <i class="ri-arrow-right-up-line"></i> 
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Design</h3>
+                                          <p id="hj">UX designers take on the task of transferring user research insights and design solutions onto the interface. Through a series of user tests and iterative sessions, we ensure the digital experience is both scalable and highly functional.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UI Design</h3>
+                                          <p id="hj">The service encompasses all aspects of creating visually appealing digital interfaces, starting from setting UI design direction to developing UI design concepts and design systems and, finally, facilitating a seamless design-to-development hand-off.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Audit</h3>
+                                          <p id="hj">Ahead of shaking up the market with a product relaunch or UI/UX redesign, our researchers do UX auditing. It involves an evaluation of the digital interface from UX, marketing, and business standpoints, ultimately providing valuable recommendations for improvement.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                  </div>
+                                 
+                              </div>
+                              
+                              <!-- Second landing5_bottom div -->
+                              
+                              <div class="landing5_bottom">
+                                  <div class="landing5-content">
+                                      <h1>Product Design</h1>
+                                      <div class="gridd">
+                                          <h5 class="gridd-h5">WEBSITE DESIGN</h5>
+                                          <h5 class="gridd-h5">MOBILE APP</h5>
+                                          <h5 class="gridd-h5">WEB APPS</h5>
+                                          <h5 class="gridd-h5">SAAS</h5>
+                                      </div>
+                                      <hr>
+                                   </div>
+                                  <div class="toclose">
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Research</h3>
+                                          <p id="hj">Before making any design solutions, our team conducts UX research, leaving no stone unturned. This entails market analysis, competitor assessment, crystallizing your product positioning, and defining comprehensive feature lists.</p>
+                                          <i class="ri-arrow-right-up-line"></i> 
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Design</h3>
+                                          <p id="hj">UX designers take on the task of transferring user research insights and design solutions onto the interface. Through a series of user tests and iterative sessions, we ensure the digital experience is both scalable and highly functional.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UI Design</h3>
+                                          <p id="hj">The service encompasses all aspects of creating visually appealing digital interfaces, starting from setting UI design direction to developing UI design concepts and design systems and, finally, facilitating a seamless design-to-development hand-off.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                      <div class="major-contents">
+                                          <h3 class="mjh">UX Audit</h3>
+                                          <p id="hj">Ahead of shaking up the market with a product relaunch or UI/UX redesign, our researchers do UX auditing. It involves an evaluation of the digital interface from UX, marketing, and business standpoints, ultimately providing valuable recommendations for improvement.</p>
+                                          <i class="ri-arrow-right-up-line"></i>
+                                          <div class="tocover"></div>
+                                      </div>
+                                  </div>
+                                
+                              </div>
+                          </div>
+        </div>
+
+        <div class="landing6">
+          <h1>Digital Product Design Process</h1>
+<div class="landing6-below">
+  <div class="blue-btn">
+    <h4>See all Case Studies <i class="ri-arrow-right-up-line"></i></h4>
+    <h4>See all Case Studies <i class="ri-arrow-right-up-line"></i></h4>
+  </div>
+<div class="right-6">
+    <p>We do not take on projects that involve blind conformity or designing out of context. We won't
+        settle for a user interface design that is misaligned with your product and digital strategy.
+        Neither will we launch web development ventures without user testing to validate our design
+        solutions.</p>
+    <p>Instead, we create scalable digital products that meet the ever-evolving demands of our
+        customers, ensuring long-term sustainability.</p>
+
+</div>
+
+</div>
+
+<div class="landing6-bot">
+    <div id="btm6-part1" ></div>
+    <div  class=" btm6-parts2">
+        <h2>Product Strategy</h2>
+        <h4><span class="uh">1</span>Strategy Workshop</h4>
+        <h4><span class="uh">2</span>Idea validation</h4>
+        <h4><span class="uh">3</span>Market Researh</h4>
+        <h4><span class="uh">4</span>Product Positioning</h4>
+        <h4><span class="uh">5</span>UX Research</h4>
+        <h4><span class="uh">6</span>Functional Decomposition</h4>
+    </div>
+    <div  class="btm6-parts">
+        <h2>UX Design</h2>
+        <h4><span>1</span>Wireframing</h4>
+        <h4><span>2</span>Prototyping</h4>
+    </div>
+    <div  class="btm6-parts">
+        <h2>UI Design</h2>
+        <h4><span>1</span>Visual Design</h4>
+        <h4><span>2</span>hand-off</h4>
+        <h4><span>3</span>Monoboards</h4>
+    </div>
+    <div  class="btm6-part">
+        <h2>Delivery</h2>
+    </div>
+   
+    
+
+
+</div>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" integrity="sha512-7eHRwcbYkK4d9g/6tD/mhkf++eoTHwpNM9woBxtPUBWm67zeAfFC+HrdoE2GanKeocly/VxeLvIqwvCdk7qScg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>             
+        <script src="move.js"></script>
+                  </body>
+              </html>
+              
+
+
+
+
+
+
+
+              *{
+                margin:0%;
+                padding:0%;
+                color: whitesmoke;
+                box-sizing: border-box;
+               
+                font-family: 'gil';
+                src: url('path/to/gil-font.woff2') format('woff2');
+            }
+            .main{
+                min-height:100vh;
+                width:100vw;
+                
+                background-color: #111;
+            }
+            .landing{
+                min-height:100vh;
+                width:100vw;
+                background-color: #111;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+              
+                
+            }
+            .landing h2{
+             font-size: 5vw;
+             line-height: 7vw;
+             margin-top: 0vw;
+            }
+            .landing h2 span {
+                width:2vw;
+                height:2vw;
+                border:1px solid;
+            }
+            .sv{
+                height: 4vw;
+                width:4vw;
+                background-color: #0DA34E;
+            border-radius: 50%;
+            
+            }
+            
+            .landing .ag{
+              margin-bottom: 1.1vw;
+            }
+            .landing p{
+                font-size: 1.1vw;
+                line-height:24px ;
+                font-weight: 500;
+            }
+            .landing h4{
+                font-size: 1.2vw;
+                display: inline-flex;
+                align-items: center;
+                border-radius: 1.8vw;
+                padding:.5vw;
+                
+            }
+            .be{
+                margin-top: 9px;
+            }
+            .nav{
+                background-color: #111;
+                display: flex;
+                align-items: center;
+                padding:2vw  10vw;
+             z-index: 10;
+                position: fixed;
+                width: 100%;
+                justify-content: space-between;
+            }
+            
+            .nav button{
+                padding:.8vw 1.8vw;
+                font-weight: 500;
+                font-size: 1.1vw;
+                border-radius: 1.7vw;
+            border: none;
+            display: flex;
+                align-items: center;
+                background-color: #0DA34E;
+            }
+            .nav button svg{
+                height: 1.3vw;
+                width: 1.3vw;
+                margin-left: 1vw;
+            
+              
+            }
+            .nav2 a{
+            text-decoration: none;
+            padding:.3vw;
+            font-size: 1vw;
+            justify-content: space-around;
+            text-transform: capitalize;
+            
+            }
+            .nav h2{
+                font-size: 1.6vw;
+                position: relative;
+               
+            }
+            .nav-open{
+               padding:0px 13.8vw;
+                position: absolute;
+                width:80%;
+                top:90%;
+                height:0px;
+                display: flex;
+                gap:2vw;
+                overflow: hidden;
+               border-bottom: 1px solid grey;
+               transition: height .7s ease, background-color .7s ease;
+            }
+            .nav:hover .nav-open{
+               height:10vw;
+               background-color: #111;
+               animation: slide-in 1s ease;
+            }
+            
+            .nav-open-ele h5{
+                margin-bottom: .6vw;
+                font-size: 1vw;
+                font-weight:100;
+                
+               
+            }
+            .nav-open-ele {
+                opacity: 0;
+                transform: translateY(20px);
+                transition: opacity .5s ease, transform 0.8s ease;
+            }
+            .nav:hover .nav-open-ele {
+                opacity: 1;
+                transform: translateY(0px);
+            }
+            .nav-open-ele:nth-child(2) {
+                transition-delay: 0.2s;
+            }
+            .nav-open-ele:nth-child(3) {
+                transition-delay: 0.4s;
+            }
+            .nav-open-ele:nth-child(4) {
+                transition-delay: 0.6s;
+            }
+            .nav-open-ele:nth-child(5) {
+                transition-delay: 0.8s;
+            }
+            .nav-open-ele:nth-child(6) {
+                transition-delay: 1s;
+            }
+            
+            
+            .moving-div{
+            position: absolute;
+            top:86%;
+            display: flex;
+            
+            width:50vw;
+            gap:1.5vw;
+            white-space: nowrap;
+            overflow: hidden;
+            align-items: center;
+            padding:1.5vw;
+            }
+            .moving-div .move{
+            display: flex;
+            gap: 2vw;
+            position: relative;
+            animation:move 7s linear infinite  ;
+            }
+            
+            
+            @keyframes move{
+                0%{
+              transform: translateX(0vw);
+                }
+                100%{
+                    transform: translateX(-39.9vw);
+                }
+               
+            }
+            .blurr{
+                height:7vw;
+                background: linear-gradient(to left,transparent,#111);
+                width: 5vw;
+                position: absolute;
+                left: 0%;
+                z-index: 2;
+            }
+            .blur-r{
+                height:7vw;
+                background: linear-gradient(to left,#111,transparent);
+                width: 5vw;
+                position: absolute;
+                left: 90%;
+                z-index: 2;
+            }
+            .landing2{
+                display: flex;
+                width:83%;
+                height:40vw;
+                justify-content: space-between;
+            white-space: nowrap;
+            
+            border-top: 1px solid rgba(128, 128, 128, 0.959);
+            margin-left:10vw;
+            margin-top: 6vw;
+            }
+            .landing2-left{
+             width:38%;
+                
+              display:flex;
+              flex-direction: column;
+              justify-content: space-between;
+              padding:0.6vw;
+            }
+            .landing2-left p{
+            font-size: 1.1vw;
+            }
+            .landing2-left h5{
+                width:28%;
+                font-weight: 100;
+                font-size: 1.1vw;
+            }
+            .landing2-right{
+               width:55%;
+              
+            }
+            .landing2-right-ele h2{
+                font-size: 1.1vw;
+                font-weight:510 ;
+            }
+            .landing2-right-ele{
+            width:100%;
+            padding:1vw 1vw;
+            height:9.9vw;
+            border-bottom: 1px solid grey;
+            position: relative;
+            }
+            .follow-cursor{
+                width:6vw;
+                height:6vw;
+            border-radius: 50%;
+            opacity: 0;
+            animation: all ease;
+            
+            }
+            .landing3{
+                background-image: url(https://lazarev.kiev.ua/la24/reel-cover.webp);
+                width:100vw;
+                height:100vh;
+                margin-top: 4vw;
+                background-size: cover;
+                background-repeat:no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            }
+            .landing3 .icon {
+                height:7vw;
+               width:fit-content;
+             
+            }
+            
+            .landing3 .icon h5{
+                font-size: 1.1vw;
+                 transform: translateY(6px);
+                 opacity: 0;
+            }
+            .icon i{
+                font-size: 8vw;
+               
+            }
+            .landing3:hover h5{
+                width:fit-content;
+                background-color: aliceblue;
+                color: #111;
+                padding:.2vw ;
+                border-radius: 1vw;
+            
+            animation: moves 1s linear forwards;
+            }
+            
+            
+            @keyframes moves{
+                
+               100%{
+                    opacity:1;
+            transform: translateY(0px);
+                }
+            }
+            
+            .landing3 video{
+                width:0%;
+                height:0vh;
+                position: absolute;
+                top: 0%;
+                left: 0%;
+            border:1px solid red;
+                object-fit: cover;
+            }
+            .landing4{
+                width: 100%;
+                height: 100vh;
+              
+                padding: 6vw ;
+                background-color: aliceblue !important ;
+            }
+            .landing4-sections{
+               
+                display: flex;
+                gap:3vw;
+                height:90%
+            }
+            .landing4-section-left{
+            width:30vw;
+            height:100%;
+            border-top: 1px solid grey;
+            padding:.6vw 1vw;
+            }
+            
+            .landing-left-name {
+                color:#111;
+            }
+            .landing-left-name-desc{
+                font-size: 2.5vw;
+                font-size: 1.2vw;
+                font-weight:lighter;
+                color: #111;
+                margin-top: 4.2vw;
+                }
+            .landing-left-name .landing-left-name-desc{
+            font-size: 2.5vw;
+            font-size: 2vw;
+            
+            }
+            .landing4-section-right{
+                width: 60vw;
+                height:100%;
+                border: 1px solid black;
+                color: #111;
+                position: relative;
+            
+            }
+            
+            .landing-left-name-desc:hover,.landing-left-name:hover{
+                transform: scale(1.1);
+                animation: all linear ;
+            }
+            .landing4-section-right img{
+                width: 100%;
+                height: 100%;
+            }
+            
+            .landing4-video{
+                position: absolute;
+                top:0%;
+                left:0%;
+                width: 100%;
+                z-index: 7;
+               
+               height: 100%;
+               object-fit: cover;
+               opacity: 0;
+            }
+            
+            .landing5 {
+                width: 100%;
+                min-height: 100vh;
+             
+                display: flex;
+                padding: 10vw;
+                justify-content: space-between;
+               /* Ensures the button is positioned relative to this container */
+                overflow: auto; /* Allows scrolling if content overflows */
+              }
+              
+              .btn-w {
+                min-height: 100vh;
+                position: relative; 
+                overflow: auto;
+                
+              }
+              
+              .bt {
+                position: -webkit-sticky;
+                position: sticky; 
+                top: 30%; 
+                width: 15vw;
+                height: 3vw;
+                border-radius: 2vw;
+                background-color: #0DA34E;
+                border: none;
+                font-size: 1.3vw;
+                z-index: 5;
+              }
+              
+            .landing5-right{
+                width:70%;
+            }
+            .landing5-p span{
+                width:7vw;
+                display: inline-block;
+            }
+            .landing5-p {
+                font-size: 2.3vw;
+                border-bottom: 1px solid grey;
+                padding-bottom: 6vw;
+            }
+            .landing5-content>h1{
+                font-size: 2.7vw;
+                padding:2.5vw .2vw;
+            
+            }
+            .landing5-content{
+              
+                border: 1px solid red;}
+            
+            
+            
+            .toclose{
+                overflow: hidden;
+                height: 0vh;
+                transition: all 1s ease;
+            }
+            .gridd{
+                display: inline-grid;
+                grid-template-rows:auto;
+                padding-bottom:2vw;
+                gap:1vw; 
+                grid-template-columns: repeat(4 ,1fr);
+            }
+            .gridd-h5{
+                border: 1.2px solid grey;
+                padding:.3vw .9vw;
+                border-radius: 1vw;
+            }
+            
+            .major-contents{
+                border-bottom:1px solid grey;
+                width:100%;
+                height:10vw;
+                display:flex;
+                justify-content: space-between;
+                padding:1vw ;
+                position: relative;
+                overflow: hidden;
+            }
+            .major-contents>p{
+                width:55%;
+                font-size: 1.1vw;
+            }
+            .major-contents>h3{
+                font-size: 1.9vw;
+                padding:1vw 0vw; 
+            }
+            .tocover{
+                position: absolute;
+                top:0%;
+                left:0%;
+                background-color:rgba(128, 128, 128, 0.18);
+                z-index: 3;
+                width:100%;
+                height:100%;
+                transform: translateY(-10vw);
+                opacity: 0;
+                transition: all ease .6s;
+            }
+            .major-contents:hover .tocover{
+            transform:translateY(0vw);
+            opacity: 1;
+            }
+            .major-contents:hover .mjh{
+                transform: scale(1.1);
+            }
+            .major-contents:hover .ri-arrow-right-up-line
+            {
+                transform: scale(1.1);
+            }
+            .major-contents:hover #hj{
+                transform: scaleX(1.1);
+            }
+            
+            .landing6{
+                width: 100%;
+                height: 100vh;
+                padding: 2vw ;
+                background-color: aliceblue !important ;
+             
+            }
+            .landing6>h1{
+                padding-left:45vw ;
+                color:black !important;
+                font-size:4.5vw;
+            padding-right: 10vw;
+            padding-bottom: 10vh;
+            padding-top: 10vh;
+            }
+            
+            .blue-btn{
+                background-color: #4f5bff;
+                color:black !important;
+                display: flex;
+                margin-left:4vh;
+                margin-top: 9vw;;
+                height:3vw;
+                border-radius: 2vw;
+                width:69vw;
+            padding: 1vw ;
+                position: relative;
+            }
+            .blue-btn>h4{
+                position: absolute;
+            }
+            .landing6-below{
+                display:flex;
+            
+                justify-content: space-between;
+                width:85%;
+                margin-left: 16vh;
+              margin-bottom: 15vh;
+            
+            }
+            .right-6>p{
+                color:black;
+               margin-left: 14vw;
+                font-size: 1.8vw;
+                margin-bottom: 8vh;
+                font-weight: 400;
+            }
+            
+            .landing6-bot{
+                width:85%;
+                height:65vh;
+               border-top:1px solid #dadada;
+                margin-left: 16vh;
+                display: flex;
+            }
+            #btm6-part1{
+                width:25%;
+                height: 100%;
+                border-right:1px solid #dadada;
+            }
+            .btm6-parts2{
+                width:30%;
+                height: 100%;
+              
+                border-right:1px solid #dadada;
+               
+            }
+            .btm6-parts{
+                width:18%;
+                height: 100%;
+                border-right:1px solid #dadada;
+                
+            }
+            .btm6-part{
+                width:9%;
+                height: 100%;
+            }
+            .btm6-part>h2{
+                
+                padding:2vw 0.3vw;
+                color:#111;
+                font-size: 1.3vw;
+            }
+            .btm6-parts h4 span{
+              
+             
+                margin-right: .9vh;
+            }
+            .btm6-parts2 h4 span{
+              
+                
+                margin-right: .9vh;
+            }
+            
+            .btm6-parts2>h2{
+                padding:2vw 0.3vw;
+                color:#111;
+                font-size: 1.3vw;
+            }
+            
+            .btm6-parts2>h4{
+                padding:.8vw 0.7vw;
+                background-color:#111;
+             margin-bottom: .9vw;
+             font-size: .8vw;
+                border:1px solid black;
+                width:40vh;
+                border-radius: 10vh;
+               
+            
+            }
+            
+            .btm6-parts2:nth-child(2),.btm6-parts:nth-child(1){
+                transform: translateX(.5vw) !important;
+            }
+            .btm6-parts2:nth-child(3),.btm6-parts:nth-child(2){
+                transform: translateX(1vw) !important;
+            }
+            .btm6-parts2:nth-child(4){
+                transform: translateX(1.5vw) !important;
+            }
+            .btm6-parts2:nth-child(5){
+                transform: translateX(2vw) !important;
+            }
+            .btm6-parts2:nth-child(6){
+                transform: translateX(2.5vw) !important;
+            }
+            .btm6-parts2 :nth-child(7){
+                transform: translateX(3vw) !important;
+            }
+            .btm6-parts>h2{
+                padding:2vw 0.3vw;
+                color:#111;
+                font-size: 1.5vw;
+            }
+            .btm6-parts>h4{
+                padding:.8vw 0.9vw;
+                background-color:#111;
+                margin-bottom: .9vw;
+                font-size: .8vw;
+                border:1px solid black;
+                width: 22vh;
+                border-radius: 8vh;
+            }
+            
+            
